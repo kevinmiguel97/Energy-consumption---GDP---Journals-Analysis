@@ -1,3 +1,7 @@
+<h3 align="center">
+    <img alt="Logo" title="#logo" width="800px" src="assets\fig.png">
+    <br>
+</h3>
 # Energy-consumption---GDP---Journals-Analysis
 This repository contains a project involving the data cleaning and information extraction of countries from three different datasets:
 
